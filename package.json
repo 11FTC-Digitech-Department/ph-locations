@@ -1,0 +1,69 @@
+{
+  "_args": [
+    [
+      "git+ssh://git@gitlab.com/iconcept-ph/rnd/philippines.git",
+      "/Users/macbookpro/Documents/Development/POSMWorks"
+    ]
+  ],
+  "_from": "git+ssh://git@gitlab.com:iconcept-ph/rnd/philippines.git",
+  "_id": "philippines@git+ssh://git@gitlab.com:iconcept-ph/rnd/philippines.git#e10397bdbd59ed90dfd7ac5a236496855e4ca0f1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/philippines",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+ssh://git@gitlab.com:iconcept-ph/rnd/philippines.git",
+    "rawSpec": "git+ssh://git@gitlab.com:iconcept-ph/rnd/philippines.git",
+    "saveSpec": "git+ssh://git@gitlab.com/iconcept-ph/rnd/philippines.git",
+    "fetchSpec": "ssh://git@gitlab.com/iconcept-ph/rnd/philippines.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+ssh://git@gitlab.com:iconcept-ph/rnd/philippines.git#e10397bdbd59ed90dfd7ac5a236496855e4ca0f1",
+  "_spec": "git+ssh://git@gitlab.com:iconcept-ph/rnd/philippines.git",
+  "_where": "/Users/macbookpro/Documents/Development/POSMWorks",
+  "author": {
+    "name": "Roy Evan Sia",
+    "email": "roy.evan.sia@gmail.com",
+    "url": "https://github.com/darklight721"
+  },
+  "bugs": {
+    "url": "https://github.com/darklight721/philippines/issues"
+  },
+  "description": "Provides a complete list of Philippine towns, cities, provinces and regions.",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "README.md",
+    "index.js",
+    "cities.json",
+    "provinces.json",
+    "regions.json"
+  ],
+  "homepage": "https://github.com/darklight721/philippines#readme",
+  "keywords": [
+    "philippines",
+    "towns",
+    "cities",
+    "provinces",
+    "regions"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "philippines",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darklight721/philippines.git"
+  },
+  "scripts": {
+    "major-release": "npm version major && npm run release",
+    "minor-release": "npm version minor && npm run release",
+    "patch-release": "npm version patch && npm run release",
+    "release": "npm publish && git push --follow-tags"
+  },
+  "version": "1.0.0"
+}

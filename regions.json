@@ -1,0 +1,19 @@
+[
+  { "name": "NCR", "long": "National Capital Region", "key": "NCR", "group": "LUZON" },
+  { "name": "CAR", "long": "Cordillera Admininstrative Region", "key": "CAR", "group": "LUZON"  },
+  { "name": "Region I", "long": "Ilocos Region", "key": "I", "group": "LUZON"  },
+  { "name": "Region II", "long": "Cagayan Valley", "key": "II", "group": "LUZON"  },
+  { "name": "Region III", "long": "Central Luzon", "key": "III", "group": "LUZON"  },
+  { "name": "Region IV-A", "long": "CALABARZON", "key": "IV-A", "group": "LUZON"  },
+  { "name": "Region IV-B", "long": "MIMAROPA", "key": "IV-B", "group": "LUZON"  },
+  { "name": "Region V", "long": "Bicol Region", "key": "V", "group": "LUZON"  },
+  { "name": "Region VI", "long": "Western Visayas", "key": "VI", "group": "VISAYAS" },
+  { "name": "Region VII", "long": "Central Visayas", "key": "VII", "group": "VISAYAS" },
+  { "name": "Region VIII", "long": "Eastern Visayas", "key": "VIII", "group": "VISAYAS" },
+  { "name": "Region IX", "long": "Zamboanga Peninsula", "key": "IX", "group": "MINDANAO" },
+  { "name": "Region X", "long": "Northen Mindanao", "key": "X", "group": "MINDANAO" },
+  { "name": "Region XI", "long": "Davao Region", "key": "XI", "group": "MINDANAO" },
+  { "name": "Region XII", "long": "SOCCSKARGEN", "key": "XII", "group": "MINDANAO" },
+  { "name": "Region XIII", "long": "Caraga", "key": "XIII", "group": "MINDANAO" },
+  { "name": "ARMM", "long": "Autonomous Region in Muslim Mindanao", "key": "ARMM", "group": "MINDANAO" }
+]
